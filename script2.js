@@ -1,17 +1,7 @@
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
-console.log("Main branch change 2");
+console.log("NEW CHANGES FOR SCRIPT 2");
+console.log("NEW CHANGES FOR SCRIPT 2");
+console.log("NEW CHANGES FOR SCRIPT 2");
+console.log("NEW CHANGES FOR SCRIPT 2");
+console.log("NEW CHANGES FOR SCRIPT 2");
+console.log("NEW CHANGES FOR SCRIPT 2");
+console.log("NEW CHANGES FOR SCRIPT 2");
