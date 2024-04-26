@@ -1,1 +1,1 @@
-console.log("main branch change 3");
+console.log("NEW CHANGES FOR SCRIPT 3");
